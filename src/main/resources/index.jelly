@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+  you master set global environment variables which are ftpServerIp,ftpPort,ftpUsername,ftpPassword
+</div>
